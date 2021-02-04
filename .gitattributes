@@ -109,3 +109,4 @@ Notebooks/Computer_Vision/new-plant-diseases-dataset/test/test/PotatoEarlyBlight
 Notebooks/Computer_Vision/new-plant-diseases-dataset/test/test/PotatoEarlyBlight4.JPG filter=lfs diff=lfs merge=lfs -text
 Notebooks/Computer_Vision/new-plant-diseases-dataset/test/test/TomatoEarlyBlight3.JPG filter=lfs diff=lfs merge=lfs -text
 Notebooks/Computer_Vision/new-plant-diseases-dataset/test/test/TomatoEarlyBlight4.JPG filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
